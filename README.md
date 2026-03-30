@@ -39,7 +39,7 @@ The project is built as a **Monorepo** using industry-standard modern stacks:
 
 ---
 
-## ✨ Key Features (HR Showcase)
+## ✨ Key Features 
 -   **Voice-to-Ticket Processing**: Implemented audio recording and AI transcription to convert natural speech into formatted maintenance tickets.
 -   **The Drama Filter**: Uses Large Language Models (LLMs) to summarize chaotic group chats into factual updates. Gain clarity in 10 seconds.
 -   **Maintenance Arrears Dashboard**: A high-impact visualization for admins to track society finances and collection rates in real-time.
@@ -55,11 +55,3 @@ The project is built as a **Monorepo** using industry-standard modern stacks:
 
 ---
 
-## 📫 Contact
-**Krishna Gupta**  
-*Front-End Developer & Product UI Designer*  
-*Specialized in high-fidelity React Applications & AI Integration.*
-
----
-
-*Built with ❤️ to make society management effortless.*
